@@ -1,0 +1,7 @@
+deprecations:
+  - constraints: < 1.0.0
+    date: "2021-01-01"
+    reason: repo is out of date
+    grace_period: 30
+    notes: info on upgrading goes here
+    blocked: false
